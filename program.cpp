@@ -21,5 +21,5 @@ int main()
     string s;
     cin >> s;
     cout << s << endl;
-    cout << "zmena" << endl;
+    cout << "zmena" << endl; 
 }
